@@ -1,0 +1,5 @@
+# pip install -r requirements.txt
+
+ultralytics==8.4.12
+opencv-python==4.13.0.92
+torch==2.10.0
